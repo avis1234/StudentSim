@@ -1,6 +1,6 @@
 # StudentSim
-Student simulation. Generating data for training algorithms and running pre-tests on simulated data.
-Pre-test execution is using IRT model for student skill progression. 
+Student simulation. Generating data for training algorithms and running pre-tests on simulated data.  
+Pre-test execution is using IRT model for student skill progression.  
 See code for details.
 
 Requirements:
